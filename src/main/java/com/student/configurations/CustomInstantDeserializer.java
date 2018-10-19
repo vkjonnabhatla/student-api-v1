@@ -1,6 +1,6 @@
-package com.student.configurations
+package com.student.configurations;
 
--api.configurations;
+
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonTokenId;
